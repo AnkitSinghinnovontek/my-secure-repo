@@ -1,2 +1,5 @@
 # Encrypt all .env files
 *.env filter=git-crypt diff=git-crypt
+*test.py filter=git-crypt diff=git-crypt
+
+
